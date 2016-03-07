@@ -1,0 +1,21 @@
+{
+  "name": "Mytest",
+  "homepage": "https://github.com/thessa333/Mytest",
+  "authors": [
+    "thessa333 <chemicalxthessa@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-2.2.1.min": "http://code.jquery.com/jquery-2.2.1.min.js"
+  }
+}
